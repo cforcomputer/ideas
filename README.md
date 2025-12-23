@@ -1,2 +1,101 @@
 # ideas
-All of my product ideas that at some point sounded interesting to me.
+All of my product ideas that at some point sounded interesting to me. Now some of them sound dumb but I'm leaving them as a record.
+Based on articles I've read, problems I've learned about, new emerging technologies, and spontaneous dreams.
+If somehow this list helps you become rich and famous, reach out when you are successful, payment in reputation or consider hiring me :) 
+
+If you have an idea, so does someone else. They are emergent patterns and our brains recognize the shapes once all the information is there. The problem is ability to execute based on knowledge and circumstance.
+
+If I see one of my old ideas somewhere as a product, I'll cross it off here.
+
+# 2026
+ -  
+# 2025
+ - 
+# 2024
+ - 
+# 2023
+ - 
+# 2021
+ - **Cue:** A neural network trained on facial cues and pupil dilation, blood pressure, heart rate, and brain activity that can be used to find out what a subject is thinking about. For instance, rapidly shifting areas on a map while measuring recognition responses, to find where a person is hiding. Modern mindreading to replace torture and interrogation, police applications and antiterrorism
+ - **Universe:** A company that summarizes the most promising scientific research from different fields, and makes it rapidly digestible in the form of summaries and pages. The site is useful for both scientists and investors, and allows venture capitalists to reach out directly to scientists in the field to offer to commercialize their work. It also allows the public to see where funding is being allocated, and has partnerships with governments and grant agencies. Shows progress of clinical trials, and makes global science clear for all. Is different from a publisher like Nature in that it doesn’t exclude, and is just a platform to search through science for the everyman. Transparency, insight, progress
+ - **RestX:** “The SpaceX of sleep”, RestX focuses on breakthrough innovations in sleep aid technology. Reinventing the bed, the sleep mask, and the pillow. Starting with an ultralightweight reusable face mask that you can’t feel on your face. Then, a bed that removes pressure completely and makes it feel like you’re floating (Drywater)
+ - **Centinel:** A pod placed in wilderness areas that contains two drones, activated when smoke is detected. One drone rises above the tree line with a tether, and beams C&C information from the base station to the other drone, which maintains line of sight with the base station antenna/Starlink.
+ - **FutureThinking:** A public facing exchange for climate change energy/pollution credits, where investors can bid, buy and sell their credits for a higher return.
+ - ~~**Seguro:** A bank for latin american countries specifically, that holds deposits in cryptocurrency and foreign currency instead of the local currency. Customers can choose which currency they want their money to be stored in, and then they can withdraw it any time in the local currency. Charged a small variable withdrawal fee/transfer fee (think N26)~~ exists
+ - **Stacktrace:** An integrated system for CO2/methane/other producers to monitor the pollutants output from their factories. Offers a real time dashboard and transparency page for the public to see how the company is meeting its output goal. Stacktrace specializes in auditing companies for government environmental mandate compliance using data, ML, satellites. → push for government requirement for companies to display scores on their website (would like to?)
+ - **Viola:** A company that connects infrastructure that was successful in other countries like the Netherlands and transfers them to nations like the US. Water in EU is so much better than the US for instance. Drinking tap water in the US is like drinking pool water. Arrange sustainable technology transfer between countries and governments.
+ - **Racepillars:** Lets people breed Pokemon like creatures, then race them in tournaments. Random chance, but better breeds have slightly higher chances of winning. Think fantasy football, except fantasy horse racing. Based on my childhood game of racing caterpillars that took over the whole school.
+ - **FietsTracker:** A small gps-based tracking device that is welded/installed to your bike. Pay a small monthly subscription (3 euro/m) for tracking service, pay more for optional bike insurance. Notifies you on your phone if your bike is moving after the tracker has been armed. Get to keep the sticker and the blinking tracker even after subscription runs out, providing another deterrent for bike thieves. Receive the sticker for free = “FietsTracker.com BIKE TRACKER”, also optional alarm when moving. Also proximity locate with phone.
+ - **MetaDesktop:** A VR headset focused on ultra high resolution of a single screen, that is not necessarily fully immersive with a high FoV, but instead, intentionally limited FoV with a static monitor set in a black (or white) background. Removes distractions, increases productivity, reduces need for excessive engineering. Replaces traditional monitors on the go or at work. Very affordable? --> see my 2025/26 project: Mindwrite
+ - **Boil:** Using microwaves for sensation in VR? Same technology used in crowd control could activate nerves beneath the skin through pinpoint low energy microwaves? -sensation of heat or??
+ - **Soro:** An led panel strip that goes in front of a piano keyboard, displaying the notes in visual form for a song. Think YouTube piano tutorials where the notes stream to the keys, except turned into a physical game and learning tool.
+ - **TradeTapper:** A meme-focused trading app with no buy/sell fees that lets you click two buttons, buy and sell on a single selected security. You can deposit up to $50 at a time, and the goal is to increase your money and “level up” your stock by rapidly buying and selling like a minigame. Earn rewards and see your rank on a global leaderboard. Company buys stock for you, takes liability for daytrading?
+
+
+# 2020
+ - **Shell mouse:** A modular gaming mouse with 3D printable shells that you can swap to best fit your hand. Product is the internal module. (Optimum ZeroMouse 2025 is not quite there.)
+ - **OpenKeyboard (OKey):** DIY kits and prebuilt projects for the mechanical keyboard community. Also funds new projects and helps creators sell their projects to the masses for a profit share.
+ - ~~**EasyMMO:** A simple to implement MMO style multiplayer service for game developers.~~ (see [SpaceTimeDB](https://spacetimedb.com/)
+ - **DronePad:** An installation service that adds drone elevators and landing pad to houses, think about how ovens, fireplaces, garages, etc. became a normal house feature. Why not dronepads?
+ - **Flycable:** Software + hardware suite that allows multiple drones to work in tandem to transport larger packages/containers (almost ready in 2026)
+ - **ItemTrader:** A web platform like Ebay/Amazon but only for virtual videogame items (that isn't steam marketplace)
+ - ~~**FromTheTop:** A website that lets people gamble and compete to win prizepools/awards for world events. People post their positions and then they are locked in, shows the win/loss ratio of each “player”. Think wallstreetbets gamified (same audience).~~ (See: polymarket)
+ - **Rub:** Subdermal implant that generates electricity from clothing friction or infrared to power biosensors you never take off.
+ - **Pocketnet:** Wireless charger mesh built into pants pocket, recharges as you walk.
+ - **Thumbook:** a device worn on the thumb with a small screen that displays single words from a story in rapid sequence. Read a book one word at a time on something that weighs nothing.
+ - **DigitalPaper:** that is like a plastic e-ink display with a rough surface. Draw with a stylus, then use eraser. Can be flashed for school tests, ebooks, etc. Imagine teacher handing out DigitalPapers in a classroom. Tap to sync on dongle for laptop, instant grading for multiple choice. Machine learning analysis on PC. Distraction free. Offline only. 
+ - **Uplift:** Is there a way to stimulate the brain directly with music without hearing it physically?
+ - **SightMate:** Self driving car sensor that warns construction/garbage truck/any crew with a big truck when there’s a car approaching outside line of sight before they walk out in front of it.
+ - **TapMem:** Some of the best ideas come to us right before we fall asleep - find a way to make it effortless to make reminders and notes when falling asleep or throughout the day.
+ - **FightJacket:** Sensor suit for nerf darts, airsoft, paintball - make the games more fun by eliminating players who don’t call out. Way to measure high velocity impacts through skin vibration? No suit needed?
+ - **NutriBlock Corp:** Efficient food for efficient people - Lab grown protein cubes, live culture block with plant proteins, necessary nutrients and fibers in quick block meals. Meal plans, popular flavors, cheap and affordable. Extremely convenient. (Soylent doesn't count because it's unhealthy)
+ - **Project overhead:** Bring back airships and make them flying houses for billionaires. The sky yachts of tomorrow. Literally floating houses, they don’t even look like airships. They can be stationary.
+ - **FlyEye:** A lightweight AR headset for military applications. Cameras see in all directions and let soldiers see who is around them at all times. AI overlay marks people and a 360 degree color coding compass shows where they are in relation to the soldier. Because it is camera based, night vision/thermal/radio overlays could be implemented as well. Eliminating need for a visor in spacesuits.
+ - **RubbishTrain:** An automated trash disposal system for suburbs. Your robot trash bin moves itself to the a self driving trash truck and returns to its charging port.
+ - **ShinyKnob:** An easily installed automatic UV light for doorhandles, alternatively, auto dispensing sanitizer mist. Really push how handles are the main vectors for disease, it’s pointless to sanitize them by hand because the moment one sick person touches it again, your work is ruined. For bathrooms and hallways in hospitals or at home.
+ - **FreshLife:** A better canned air brand (yes, this is a real thing, was a fad in China). Create an industry for the ultra wealthy in China and India's largest cities. Compressing air from regions around the world and shipping it to, then pumping it into apartments with a sealed circulatory system and O2 monitor. Canned water? Canned air!
+ - **DotKeyb:** Keyboard that is only qr dots on a desk. Obscuring in specific patterns tells us which key is selected.
+ - **Voidpaint:** Micro LEDs embedded in conductive paint - think nebulas, cityscapes, beautiful starry sky paint jobs, devices, buildings, etc.
+ - **ClipSync:** app automatically syncs last photo taken/clipboard data with PC clipboard between devices. Barebones, works, simple universal copy and pasting.
+ - **The Idea Company:** A company that uses AI to find new business ideas/opportunties for entrepreneurs by analyzing trends, and using a model that effectively imitates creativity by extracting novel ideas from science fiction books.
+ - **NepelPro:** Closed loop sinks that don't use water as the solvent.
+ - **OVerView:** A financial platform that uses AI to bring important world events to a newsboard. Built so that something new and important that could make you money never falls under your radar.
+ - **LivingInk:** Electronic bio-compatible displays beneath the skin that can be used for changing ink tattoos, can change colors (light up?
+ - **RealWindow**: A window that is a display that uses a camera to track your movement and make it look like outside perspective is changing. For rooms in depressing areas, subscription based to access cameras in different parts of the world.
+ - **VirtBody:** Fully simulated VR representation of the human body that can be interacted with. Pay for different surgery practice modules, built for hospitals and medschools. (kinda, not super good)
+ - **Bactorinse:** Bacteria in the mouth engineered to eat plaque. No need to ever floss again, or brush. Just apply paste to teeth three times per week.
+ - ~~**Popup:** AI application that can create 3D environments in games from a 2D image~~
+ - **Simit:** A multiplayer AR game that uses cameras to map area in 3D in real time, show players, monsters, explosions, etc. Fight friends or fight with them in your house, in the woods, etc. Basically wear a headset after mapping your back yard with your phone, and fight virtual monsters in real life with your friends. (not very good yet), related to FightJacket.
+ - ~~**Judge by the cover:** rate a book by the cover and 3 opening sentences.~~
+ - ~~**TrustMe:** Verified third party testimonial platform for websites, customers can verify their identity with us and provide trustworthy reviews for company products, sites pay for the service. Already exists.~~
+ - **OpenGlasses:** A service that uses resin printing to 3D print custom glasses frames for customers. They are sized and can be immediately previewed using AR on phones that support LIDAR mapping. Sell the LIDAR preview package to other glasses and wearable companies.
+ - **Saborg:** Tracked lightsaber AR game with an arm piece that locks in place and provides resistance when virtual blades come in contact. Accessory for beatsabre?
+ - ~~**Roboa:** Subscription based financial advising for low net worth individuals → big companies essentially saturated this with robo-advisors.~~
+ - **SwarmShine:** Swarm robots that use vacuum tech to clean windows of skyscrapers. Stick to the window, and roll down from the top of the building, operate slowly but constantly.
+ - **HoloPrint:** An app advertising ecosystem for AR ads for businesses, shows deals and promo codes through phone screen or ar glasses, tap them to get discounts in the store. Think bladerunner floating holo signs.
+ - **Mushbags:** Using hydrophobic fungi membrane material to replace trashbags.
+ - ~~**Collider:** A 3D printer that uses low power lasers to create 3D prints suspended inside a resin tank. When the lasers collide at a point, they create a spot that hardens the resin.~~ (See axial lithography 2024 @opensauce, berkeley 2025)
+ - **Blindside:** ADHD glasses that you can toggle to remove peripheral vision.
+ - **Craveling:** Engineered gut bacteria that make people crave only healthy food.
+ - ~~**DroneChain:** For long distance control beaming - matched altitude, slaved to each other to maintain line of sight. Will navigate to reestablish line of sight. Can vastly improve control range for emergency services, military applications.~~ (See Ukraine war applications for booster drones)
+ - **Binit!:** Recycling tags that are detected by trash bins that will alert you if the item is not recyclable in your area, or if it is. Ring camera + QR?
+ - ~~**OpenPrint:** Open source printer that takes super cheap ink that you can diy make. More expensive up-front, but vastly cheaper in the long run. Modular with upgradeable parts.~~ --> See OpenPrinter on Hackaday.
+ - **SmartSteps:** Use the tech that manages power distribution in datacenters and apply it to home appliances. Ex: powering off lights in a home when you leave the room. (exists, half-assed)
+ - **Tintak:** A feedback device to mitigate tinnitus through bone conduction using a smartphone as brain?
+ - **ThirdArm:** A third helping hand for electronics work, fine motor functions, that is controlled with the tongue and existing hands
+ - **TourSight:** Using smartphone mobility data to calculate tourist spending.
+ - ~~**CelebrityVoice:** An app that uses neural network TTS to dub popular characters voices/celebrity voices over short mp4 videos. Works free for 10 sec clip, pay subscription fee or one-time payment for longer videos.~~ (exists now with generic, accessible voice cloning)
+ - **MemeMarket:** Meme trading site for r/memeeconomy community that lets them buy and sell memes using dogecoin. Users can have exhibitions to display and sell their prized memes. Blockchain makes them unique. Market insights. Meme format “IPO’s” where users can invest (kind had its thing already with NFTs, but maybe it would still be fun.)
+ - **BiggerBatteries:** Increase battery surface area by using molecular sieve manufacturing principles? (I don't know how batteries work)
+ - ~~**VTuberAI** - neural network voice modulator. The best male to female voice or female to male modulator with free trial plan, adjusts tonality of person’s voice. Custom trained models for extra.~~ kind exists
+ - ~~Using LIDAR/phone cameras to gather measurements on person’s face (photogrammetry application with inverse mold?), then 3D print a mold for a custom fitted mask, or partial silicone component for their nose. Stops glasses from fogging. Can be used with a normal cloth mask (velcro/magnets). Optional full face silicone frame for swappable fabric colors, full seal.~~ exists, but not as standalone service.
+ - **ShopQuick:** An AR service for stores that lets them submit a floor plan to the app, so customers can find everything they need in their list quickly. Optimizes route and shows lines to direct them to their next product. Free, analytics pays for service
+ - **Subbook:** A barebones laptop with 0 local storage that is subscription based. You’re really buying the right to rent a cloud server with a far more powerful machine. Works on mobile networks and wifi.
+ - **StatGrip:** uses electric static charge to adhere wearables to the skin without the use of glues. Potential for BMI, body trackers, flexible screens? (Not sure possible, see super insulators)
+ - ~~**ExpoSense:** Tracks exposure to air quality and UV. Tracks UV exposure and location data to see if you are outside or not. Links to smartphone and grabs air quality index from online for your area. Target areas like india and China and warns you if you are approaching dangerous exposure levels. Also warns about potential contagions.~~ Exists on CrowdSupply 2025.
+ - **HoneyCuddle:** Extremely cursed idea: VR app that lets strangers create virtual rooms to cuddle with each other. Using a suit that can inflate, deflate, creates sensations that are calming. Would probably be big in Japan.
+ - **Discipline Clock:** a standing stopwatch clock which you click when you start, and click again when you leave to take a break. Lets you set study time goals. Marks done and turns from blue to green when you have completed your time goal. (Done before but could be better)
+ - ~~**Answerbay.org:** A website that operates in a grey area, compiling question answers from websites using automated bots and adding them to an indexable database, making them available with ads on a website. Copying StackOverflow’s question bounty model, answerbay uses cryptocurrency to pay users who complete question bounties. Points (the cryptocurrency) can be purchased through the website, points are also listed on crypto exchanges.~~ (Conceptually replaced by LLMs)
+
+# 2016
+ - Universe Bus: A company focused entirely on creating a self improving artificial intelligence with a promise for people to obtain immortality of mind through singularity.

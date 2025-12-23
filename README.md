@@ -10,7 +10,24 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
 # 2026
  -  
 # 2025
- - 
+ - **Blide:** A drone bomb carried to the stratosphere by a weather ballon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).
+ - **LivePDF:** A localized micro website contained in a file that behaves like a pdf, but can be interactive and offer more flexibility.
+ - **MicTango:** Microphone array module for trains letting them follow a specific sound signature even at high speed.
+ - **Packater:** Immediately find boxes with reusable sim tags stickers, for package delivery points in nl.
+ - **GorG:** Thermal nose sensor for stress testing. Nose gets cold when stressed (or maybe getting ill). Can scan at company doors, monitor for bed, etc.
+ - **Lolms:** Local llm models that have a personality and explain about an object they are attached to. Example: a lightbulb, a fancy toilet, a museum piece. "Hello citizen. I am killing ticks"
+ - **ncorporeal:** Could be used in conjuction with lolms. Use 3d effect glass with AI head vtuber ai, like a 3D glass. Remote 3d head display for walking up to desk and talking with a wfh employee. Green light when at computer and motion detected. Webcam app + AI to generate 3d head. Use the glass optical illusion trick.
+ - **FreezScreen:** Electric frosting glass phone cover. For schools, for sleep. Trigger when specific apps are opened.
+ - **Droid language:** An audio signalling language for robots to communicate and signal without being distracting or requiring network connectivity (like in star wars, but real)
+ - **BorgBowl:** A kibble dispenser that teaches your dog or cat to speak like a human. Deposits a treat after they mimick a bark Then it changes the bark to see if they can mimick it, subtle shift until it sounds like "I want a treat".
+ -  **ReedSleep:** A decibel meter simple click and go universal sleep environment quality tracker. Plug and play, easy sleep environment score with optional breakdown.
+ -  **The Noort:** Records only your voice using a model to isolate sound. Gives you a summary of what you said for the entire day, then gives feedback on how to lead a healthier life, archive of your entire life.
+ -  **graffitijet:** Handheld inkjet printer that uses location spatial data to print a picture on a wall regardless of how shaky or how much you move the handheld printer it will always draw the perfect picture.
+ -  **Remootice:** People can put on a vr headset, walk up to the desk, and see and interact with the person there, as they are rendered as 3d scan at their home office tower when they are sitting in their seat. Another version of ncorporeal.
+ -  **Simintex/Simtext**: Lora low resolution image codec for positional transmission. takes an image, then draws the outlines in bit 1 and 0, then assigns a color code to the silhoutes so we can see which are closer and further away. Basically only transmitting very low resolution outline and pixel point object data. Masking is done locally before transmit.
+ -  **Loopers:** dropped into forests and trees with loops and solar panels, ideally would loop around the top of a tree with unrestricted view of the sky and surrounding area, instant security cams for warzones.
+ -  **Photo film screen:** A display cover that updates based on UV spectrum led below it, or any light sensitive, to provide a truly paper display without e-ink? (not possible yet?)
+ -  
 # 2024
  - **Cult simulator:** Like pandemic except for cults. You are a cult leader and you need to create tenants and perform acts to make your cult grow and worship you more. Meant to be educational.
  - **The Micro Metal:** Tiny metal printer using advanced high temp laser and metal dust stream
@@ -29,8 +46,6 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **HumBeat:** AI app that creates music when you beatbox a or hum a tune. Create layers within the app, apply effects, create new music with instruments using AI.
  - **AstralCorp:** A remote soldering and grasping station for remote technicians to work from home for things like industrial electronics repair lines.
  - **OpenBed:** A smart temperature regulating bed that is open source and sold in kits. Modeled after the 8Sleep except not a scam. (currently working on this)
-
-
 
 # 2023
  - Chaos

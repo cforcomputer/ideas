@@ -12,9 +12,19 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
 # 2025
  - 
 # 2024
- - 
+ - **Cult simulator:** Like pandemic except for cults. You are a cult leader and you need to create tenants and perform acts to make your cult grow and worship you more. Meant to be educational.
+ - **The Micro Metal:** Tiny metal printer using advanced high temp laser and metal dust stream
+ - **Silent Vlogging Drones:** Mixing lighter than air tanks with a camera and microphone to create a vlogging drone that isn’t socially disruptive, near silent. (kind of exists, but not consumer)
+ - ~~**Nicotineless Cigarettes:** Socially cool. Progressive levels for people trying to quit, gamified “tiers” that come in canisters.~~ (so a vape? dumb idea)
+ - **Homing grenades:** Toss in the air. Calculates trajectory and looks for targets, double blade prop realigns and airburts. Can also act as a holding camera above field.
+ - **BOX:** A phone the size of an ipod shuffle with no screen.
+
+
+
 # 2023
- - 
+ - Chaos
+# 2022
+ - Chaos
 # 2021
  - **Cue:** A neural network trained on facial cues and pupil dilation, blood pressure, heart rate, and brain activity that can be used to find out what a subject is thinking about. For instance, rapidly shifting areas on a map while measuring recognition responses, to find where a person is hiding. Modern mindreading to replace torture and interrogation, police applications and antiterrorism
  - **Universe:** A company that summarizes the most promising scientific research from different fields, and makes it rapidly digestible in the form of summaries and pages. The site is useful for both scientists and investors, and allows venture capitalists to reach out directly to scientists in the field to offer to commercialize their work. It also allows the public to see where funding is being allocated, and has partnerships with governments and grant agencies. Shows progress of clinical trials, and makes global science clear for all. Is different from a publisher like Nature in that it doesn’t exclude, and is just a platform to search through science for the everyman. Transparency, insight, progress

@@ -40,7 +40,17 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Boil:** Using microwaves for sensation in VR? Same technology used in crowd control could activate nerves beneath the skin through pinpoint low energy microwaves? -sensation of heat or??
  - **Soro:** An led panel strip that goes in front of a piano keyboard, displaying the notes in visual form for a song. Think YouTube piano tutorials where the notes stream to the keys, except turned into a physical game and learning tool.
  - **TradeTapper:** A meme-focused trading app with no buy/sell fees that lets you click two buttons, buy and sell on a single selected security. You can deposit up to $50 at a time, and the goal is to increase your money and “level up” your stock by rapidly buying and selling like a minigame. Earn rewards and see your rank on a global leaderboard. Company buys stock for you, takes liability for daytrading?
-
+ - **Dart:** A free-fall head homing drone munition that identifies humans from above and steers itself to impact. Highly accurate projectiles can be dropped in large quantities running local YOLO.
+ - **Tap:** A circular device that is glued using a temporary patch behind the ear. Waterproof. Pairs with phone. Uses bone conduction to deliver messages, can act like a two-way radio.
+ - **Struct:** Growing bones from patient stem cells instead of titanium implants, perhaps it is possible with a scaffold and nutrient rich growth medium?
+ - **Yumit:** A drug additive to food that makes the receptors on your tongue more active, making everything taste better.
+ - **Norbit:** A little device with a small screen and camera. Uses an open source authenticator. It takes scans the QR code and keeps all your refreshing auth codes in an e-ink display. It saves them on an sd card you can easily remove and toss or swap to a new Norbit. Like Yubikey but more universal.
+ - **Tap-keyboard:** Normal keys with a touch function. Lightly double or triple tapping a key without pressing will perform a programmed action or macro/hotkey
+ - **Presh:** A clothing/fashion line focussed on press freedom. 10% of profits go towards supporting free press. Clothing has a big PRESS logo that makes people look like reporters.
+ - **Tokitap regulator:** Universal fits to end of faucets and has a small dial to change maximum water pressure based on radius of sink in order to stop splashes.
+ - **HumBeat:** AI app that creates music when you beatbox a or hum a tune. Create layers within the app, apply effects, create new music with instruments using AI.
+ - **AstralCorp:** A remote soldering and grasping station for remote technicians to work from home for things like industrial electronics repair lines.
+ - **OpenBed:** A smart temperature regulating bed that is open source and sold in kits. Modeled after the 8Sleep except not a scam. (currently working on this)
 
 # 2020
  - **Shell mouse:** A modular gaming mouse with 3D printable shells that you can swap to best fit your hand. Product is the internal module. (Optimum ZeroMouse 2025 is not quite there.)

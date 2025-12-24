@@ -33,6 +33,12 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Life Notes:** When the AR headset sees a QR code it will display the name and read out the notes you've left for that object or location.
  -  **Like Me:** A ux profile personas tool where an ai simulates navigating sites and apps. https://www.nature.com/articles/d41586-025-02095-8
  -  **SalesPitch:** Build companies with closed door quote systems to have automatic price processing instead of quotes. Easy intuitive interface to adjust profitability and see sales metrics and adjust prices all at once. Nobody likes to wait and ask for a quote.
+ -  **Colossus:** tower-style land robots that run on fiber optics and spooled wire to a battlefront, then deploy dozens of drones before returning along the control wire laid by earlier drones.
+ -  **World model visual replacement:** using a world model in AR glasses to replace visual scenery in real time with forests in cities, etc.
+ -  ~~**Seat Sling:** Attaches to seats holds user head up leaning forward on plane seats. Optional seat sling or pillow. Washable. Also acts as a face mask. Heated(?)~~ (Exists, perhaps not the best implementation.)
+ -  **Driveby:** A motion sensor that records the vibrations over time for a motor to detect failure. Preventative maintenance. Attached magnetically, uses a piezo for vibrations, lora to connect to a hub and transmit the signal.
+ -  **Fakecharts:** Really simple AI chart generator site for people who want a convincing chart from incomplete or nonexistent data. Allows the user to drag around lines to automatically generate data for false charts or charts for videos. For example showing the relationship between social isolation and anxiety.
+ -  **Annologic:** Big, dead simple minimalist "smash" timer plug for bedside tables, plug it in and hit the timer to have it turn off after 15/ 5/20 min
  -  
 
 
@@ -42,7 +48,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Silent Vlogging Drones:** Mixing lighter than air tanks with a camera and microphone to create a vlogging drone that isn’t socially disruptive, near silent. (kind of exists, but not consumer)
  - ~~**Nicotineless Cigarettes:** Socially cool. Progressive levels for people trying to quit, gamified “tiers” that come in canisters.~~ (so a vape? dumb idea)
  - **Homing grenades:** Toss in the air. Calculates trajectory and looks for targets, double blade prop realigns and airburts. Can also act as a holding camera above field.
- - **BOX:** A phone the size of an ipod shuffle with no screen.
+ - **BOX:** A phone the size of an ipod shuffle with no screen. Can connect to different size display packages.
  - **Dart:** A free-fall head homing drone munition that identifies humans from above and steers itself to impact. Highly accurate projectiles can be dropped in large quantities running local YOLO.
  - **Tap:** A circular device that is glued using a temporary patch behind the ear. Waterproof. Pairs with phone. Uses bone conduction to deliver messages, can act like a two-way radio.
  - **Struct:** Growing bones from patient stem cells instead of titanium implants, perhaps it is possible with a scaffold and nutrient rich growth medium?

@@ -161,4 +161,4 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - ~~**Answerbay.org:** A website that operates in a grey area, compiling question answers from websites using automated bots and adding them to an indexable database, making them available with ads on a website. Copying StackOverflow’s question bounty model, answerbay uses cryptocurrency to pay users who complete question bounties. Points (the cryptocurrency) can be purchased through the website, points are also listed on crypto exchanges.~~ (Conceptually replaced by LLMs)
 
 # 2016
- - Universe Bus: A company focused entirely on creating a self improving artificial intelligence with a promise for people to obtain immortality of mind through singularity.
+ - ~~**Universe Bus:** A company focused entirely on creating a self improving artificial intelligence with a promise for people to obtain immortality of mind through singularity.~~ (you know which one)

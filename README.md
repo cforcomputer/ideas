@@ -18,7 +18,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Lolms:** Local llm models that have a personality and explain about an object they are attached to. Example: a lightbulb, a fancy toilet, a museum piece. "Hello citizen. I am killing ticks"
  - **ncorporeal:** Could be used in conjuction with lolms. Use 3d effect glass with AI head vtuber ai, like a 3D glass. Remote 3d head display for walking up to desk and talking with a wfh employee. Green light when at computer and motion detected. Webcam app + AI to generate 3d head. Use the glass optical illusion trick.
  - **FreezScreen:** Electric frosting glass phone cover. For schools, for sleep. Trigger when specific apps are opened.
- - **Droid language:** An audio signalling language for robots to communicate and signal without being distracting or requiring network connectivity (like in star wars, but real)
+ - **Droid language:** An audio signalling command language for robots to communicate and signal without being distracting or requiring network connectivity (like in star wars, but real)
  - **BorgBowl:** A kibble dispenser that teaches your dog or cat to speak like a human. Deposits a treat after they mimick a bark Then it changes the bark to see if they can mimick it, subtle shift until it sounds like "I want a treat".
  -  **ReedSleep:** A decibel meter simple click and go universal sleep environment quality tracker. Plug and play, easy sleep environment score with optional breakdown.
  -  **The Noort:** Records only your voice using a model to isolate sound. Gives you a summary of what you said for the entire day, then gives feedback on how to lead a healthier life, archive of your entire life.
@@ -27,7 +27,15 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Simintex/Simtext**: Lora low resolution image codec for positional transmission. takes an image, then draws the outlines in bit 1 and 0, then assigns a color code to the silhoutes so we can see which are closer and further away. Basically only transmitting very low resolution outline and pixel point object data. Masking is done locally before transmit.
  -  **Loopers:** dropped into forests and trees with loops and solar panels, ideally would loop around the top of a tree with unrestricted view of the sky and surrounding area, instant security cams for warzones.
  -  **Photo film screen:** A display cover that updates based on UV spectrum led below it, or any light sensitive, to provide a truly paper display without e-ink? (not possible yet?)
+ -  **Kanjatin:** A latin alphabet with Japanese-looking characters, once memorized it is the same as the english alphabet, just with different characters (for weebs/cyberpunk fans
+ -  **SirenSphere:** A very loud propaganda speaker that screams and recites stories and lasts for days, can be airdropped.
+ -  **Spark:** To help solve antisocial lonliness epidemic, an AR app that tells you how many single people are nearby, without a photo, you have to guess, and you can "wave", they can choose to wave back irl.
+ -  **Life Notes:** When the AR headset sees a QR code it will display the name and read out the notes you've left for that object or location.
+ -  **Like Me:** A ux profile personas tool where an ai simulates navigating sites and apps. https://www.nature.com/articles/d41586-025-02095-8
+ -  **SalesPitch:** Build companies with closed door quote systems to have automatic price processing instead of quotes. Easy intuitive interface to adjust profitability and see sales metrics and adjust prices all at once. Nobody likes to wait and ask for a quote.
  -  
+
+
 # 2024
  - **Cult simulator:** Like pandemic except for cults. You are a cult leader and you need to create tenants and perform acts to make your cult grow and worship you more. Meant to be educational.
  - **The Micro Metal:** Tiny metal printer using advanced high temp laser and metal dust stream
@@ -42,10 +50,23 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Norbit:** A little device with a small screen and camera. Uses an open source authenticator. It takes scans the QR code and keeps all your refreshing auth codes in an e-ink display. It saves them on an sd card you can easily remove and toss or swap to a new Norbit. Like Yubikey but more universal.
  - **Tap-keyboard:** Normal keys with a touch function. Lightly double or triple tapping a key without pressing will perform a programmed action or macro/hotkey
  - **Presh:** A clothing/fashion line focussed on press freedom. 10% of profits go towards supporting free press. Clothing has a big PRESS logo that makes people look like reporters.
- - **Tokitap regulator:** Universal fits to end of faucets and has a small dial to change maximum water pressure based on radius of sink in order to stop splashes.
+ - **Tokitap regulator:** Universal fit to end of faucets and has a small dial to change maximum water pressure based on radius of sink in order to stop splashes.
  - **HumBeat:** AI app that creates music when you beatbox a or hum a tune. Create layers within the app, apply effects, create new music with instruments using AI.
  - **AstralCorp:** A remote soldering and grasping station for remote technicians to work from home for things like industrial electronics repair lines.
  - **OpenBed:** A smart temperature regulating bed that is open source and sold in kits. Modeled after the 8Sleep except not a scam. (currently working on this)
+ - **Visualized by size:** Shows the distance in metric and imperial superimposed over easily recognizable structures. Lets you change the structure to different units of measurement. Example. Giraffes
+ - **Tipped:** A website that records all the russians who fell out of windows.
+ - **Authix:** A yubikey-like device that pairs over bluetooth to access password vault for all your nearby devices
+ - **BonziGPT:** Bonzibuddy wrapper for chatGPT, which makes it actually useful and possibly funny. (meme idea)
+ - **Dotmouse:** Tracking hand movements with a colored dot on top of hand + openCV to create a mouseless mouse.
+ - **Pixlamp:** A robotic, intelligent lamp modeled after the pixar lamp. You can ask it questions, show it papers on the desk and it will answer.
+ - **The Good Feed:** An RSS news feed aggregator that is easier for the average person to set up, with lots of existing RSS feeds to add.
+ - **Scratchboard:** keyboard with a touchscreen pad for each hand where the user can draw letters. Once a letter is recognized, it is typed. Cursive is used.
+ - **The great meme encyclopedia:** A picture book with a page dedicated to every great meme over the years.
+ - **Decibel monitor:** A Camera monitor network that can detect and record vehicles and people who are emitting noise above the approved decibel limit for residential areas. Can warn the user with directioned ultrasonic speaker if they are too loud. Non-camera version for hostels and bars, etc.
+ - **Elecbric:** Fabric that somehow hardens when an electric current is passed through it.
+ - **Sneaker:** A device cable attachment that remains powered when you toss it onto a powerline
+ - **Adaptive mode net for AI:** many small hypertuned task models that are called to complete a single complex task. General models only go so far, hypertuned task models will be better than a general reasoning model.
 
 # 2023
  - Chaos

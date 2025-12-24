@@ -66,7 +66,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **BonziGPT:** Bonzibuddy wrapper for chatGPT, which makes it actually useful and possibly funny. (meme idea)
  - **Dotmouse:** Tracking hand movements with a colored dot on top of hand + openCV to create a mouseless mouse.
  - **Pixlamp:** A robotic, intelligent lamp modeled after the pixar lamp. You can ask it questions, show it papers on the desk and it will answer.
- - **The Good Feed:** An RSS news feed aggregator that is easier for the average person to set up, with lots of existing RSS feeds to add.
+ - **The Good Feed/alert:** An RSS news feed aggregator that is easier for the average person to set up, with lots of existing RSS feeds to add. LLM auto alerts based on significant developments or news.
  - **Scratchboard:** keyboard with a touchscreen pad for each hand where the user can draw letters. Once a letter is recognized, it is typed. Cursive is used.
  - **The great meme encyclopedia:** A picture book with a page dedicated to every great meme over the years.
  - **Decibel monitor:** A Camera monitor network that can detect and record vehicles and people who are emitting noise above the approved decibel limit for residential areas. Can warn the user with directioned ultrasonic speaker if they are too loud. Non-camera version for hostels and bars, etc.

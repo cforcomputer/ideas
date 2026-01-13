@@ -1,7 +1,7 @@
 # ideas
-All of my product ideas that at some point sounded interesting to me. Now some of them sound dumb but I'm leaving them as a record.
+All of my product ideas that at some point sounded interesting to me, even the silly ones that just popped up in my head for a second.
 Based on articles I've read, problems I've learned about, new emerging technologies, and spontaneous dreams.
-If somehow this list helps you become rich and famous, reach out when you are successful, payment in reputation or consider hiring me :) 
+If somehow this list helps you become rich and famous +rep
 
 If you have an idea, so does someone else. They are emergent patterns and our brains recognize the shapes once all the information is there. The problem is ability to execute based on knowledge and circumstance.
 

@@ -8,6 +8,20 @@ If you have an idea, so does someone else. They are emergent patterns and our br
 If I see one of my old ideas somewhere as a product, I'll cross it off here.
 
 # 2026
+ -  **Top hacker news bot:** A simple bot that only posts hacker news stories over a certain threshhold (say, 1000 upvotes).
+ -  **Infrared mouse handwarmer:** A reflector panel that warms your desk with infrared light in cold weather (my hands are currently numb)
+ -  **OpenPrompter:** An open source, cheap paid app for teleprompters that follows what you're saying. Uses a language recognition model. ez?
+ -  **Laydown:** A wearable that shocks you when until you go to the bedroom. Shows countdown of how much sleep you're losing. Watch app?
+ -  **Nogo:** Wifi chip sticker for devices. If you bring them into a room an alarm plays until they are taken out. No phones in bedroom.
+ -  **Steam, but for books:** Amazon exists, Kobo exists, lots of sites exist. But is there a better way to distribute books?
+ -  **Playdate:** An open source dating app where the first date is always in a videogame.
+ -  **Lottery visual stats site:** A site that shows the locations of powerball winners, similarity between winning numbers. Means nothing.
+ -  **Signalbot:** Remotely controlled metal detector bots for fun or mine detection.
+ -  **FlateE:** A shoulder mounted inflatable ai camera, or a robot camera, gains height with air, like the things at carparks. Soft robot.
+ -  **Buzzmap:** Haptic google maps with no screen. Feels like its pulling you when walking in right direction. OSM API?
+ -  **Backlane:** Open street maps navigator, but it tries to get you to your destination only using the least traveled backroads.
+ -  **AirPanel:** Haptic or electrical stimulation to feel the shape of an object, namely switches on a control panel.
+ -  **UltraSculpter:** Software controlled sculpting using ultrasound to create a 3d object. Tech used in cancer tumor destruction.
  -  
 # 2025
  - **Blide:** A drone bomb carried to the stratosphere by a weather ballon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).

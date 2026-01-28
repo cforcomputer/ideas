@@ -8,6 +8,7 @@ If you have an idea, so does someone else. They are emergent patterns and our br
 If I see one of my old ideas somewhere as a product, I'll cross it off here.
 
 # 2026
+ -  **Freshfruit:** a db of when all the in season fruits are. App and hardware eink screen. Enter wifi auto and will tell you based on gps what is currently in season or available in supermarkets
  -  **Top hacker news bot:** A simple bot that only posts hacker news stories over a certain threshhold (say, 1000 upvotes).
  -  **Infrared mouse handwarmer:** A reflector panel that warms your desk with infrared light in cold weather (my hands are currently numb)
  -  **OpenPrompter:** An open source, cheap paid app for teleprompters that follows what you're saying. Uses a language recognition model. ez?
@@ -22,9 +23,13 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Backlane:** Open street maps navigator, but it tries to get you to your destination only using the least traveled backroads.
  -  **AirPanel:** Haptic or electrical stimulation to feel the shape of an object, namely switches on a control panel.
  -  **UltraSculpter:** Software controlled sculpting using ultrasound to create a 3d object. Tech used in cancer tumor destruction.
+ -  **SAM (super awesome machine):** Haulcraft droid, just camera/etc. from star wars but as a personal companion.
+ -  **BigBoston:** An AI voice clone of an extremely thick boston accent.
+ -  **Pat's extremely dry raisins:** I hate it when raisins are moist. I love the ones that are like chewy candy in cereal. Just dry them longer and sell them.
+ -  
  -  
 # 2025
- - **Blide:** A drone bomb carried to the stratosphere by a weather ballon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).
+ - **Blide:** A drone bomb carried to the stratosphere by a weather balloon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).
  - **LivePDF:** A localized micro website contained in a file that behaves like a pdf, but can be interactive and offer more flexibility.
  - **MicTango:** Microphone array module for trains letting them follow a specific sound signature even at high speed.
  - **Packater:** Immediately find boxes with reusable sim tags stickers, for package delivery points in nl.
@@ -83,7 +88,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **The Good Feed/alert:** An RSS news feed aggregator that is easier for the average person to set up, with lots of existing RSS feeds to add. LLM auto alerts based on significant developments or news.
  - **Scratchboard:** keyboard with a touchscreen pad for each hand where the user can draw letters. Once a letter is recognized, it is typed. Cursive is used.
  - **The great meme encyclopedia:** A picture book with a page dedicated to every great meme over the years.
- - **Decibel monitor:** A Camera monitor network that can detect and record vehicles and people who are emitting noise above the approved decibel limit for residential areas. Can warn the user with directioned ultrasonic speaker if they are too loud. Non-camera version for hostels and bars, etc.
+ - **Decibel monitor/Soundplan:** A Camera monitor network that can detect and record vehicles and people who are emitting noise above the approved decibel limit for residential areas. Can warn the user with directioned ultrasonic speaker if they are too loud. Non-camera version for hostels and bars, etc. An average decibel map of a city, and then mapping it to educational and life/quality outcomes.
  - **Elecbric:** Fabric that somehow hardens when an electric current is passed through it.
  - **Sneaker:** A device cable attachment that remains powered when you toss it onto a powerline
  - **Adaptive mode net for AI:** many small hypertuned task models that are called to complete a single complex task. General models only go so far, hypertuned task models will be better than a general reasoning model.
@@ -149,7 +154,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Saborg:** Tracked lightsaber AR game with an arm piece that locks in place and provides resistance when virtual blades come in contact. Accessory for beatsabre?
  - ~~**Roboa:** Subscription based financial advising for low net worth individuals → big companies essentially saturated this with robo-advisors.~~
  - **SwarmShine:** Swarm robots that use vacuum tech to clean windows of skyscrapers. Stick to the window, and roll down from the top of the building, operate slowly but constantly.
- - **HoloPrint:** An app advertising ecosystem for AR ads for businesses, shows deals and promo codes through phone screen or ar glasses, tap them to get discounts in the store. Think bladerunner floating holo signs.
+ - **HoloPrint/Advew:** An app advertising ecosystem for AR ads for businesses, shows deals and promo codes through phone screen or ar glasses, tap them to get discounts in the store. Think bladerunner floating holo signs. (Reccurred thought: 2026: ads for xr / glasses that can be linked to real world physical businesses for a small fee based on image recognition /gps. Learn about a business just by looking at it complete with reviews and items available.)
  - **Mushbags:** Using hydrophobic fungi membrane material to replace trashbags.
  - ~~**Collider:** A 3D printer that uses low power lasers to create 3D prints suspended inside a resin tank. When the lasers collide at a point, they create a spot that hardens the resin.~~ (See axial lithography 2024 @opensauce, berkeley 2025)
  - **Blindside:** ADHD glasses that you can toggle to remove peripheral vision.

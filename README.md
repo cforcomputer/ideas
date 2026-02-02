@@ -57,7 +57,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  ~~**Seat Sling:** Attaches to seats holds user head up leaning forward on plane seats. Optional seat sling or pillow. Washable. Also acts as a face mask. Heated(?)~~ (Exists, perhaps not the best implementation.)
  -  **Driveby:** A motion sensor that records the vibrations over time for a motor to detect failure. Preventative maintenance. Attached magnetically, uses a piezo for vibrations, lora to connect to a hub and transmit the signal.
  -  **Fakecharts:** Really simple AI chart generator site for people who want a convincing chart from incomplete or nonexistent data. Allows the user to drag around lines to automatically generate data for false charts or charts for videos. For example showing the relationship between social isolation and anxiety.
- -  **Annologic:** Big, dead simple minimalist "smash" timer plug for bedside tables, plug it in and hit the timer to have it turn off after 15/ 5/20 min
+ -  **Annologic:** Big, dead simple minimalist "smash" timer plug for bedside tables, plug it in and hit the timer to have it turn off after 15/ 5/20 min. E-ink display. Warm glowing brick. 
  -  
 
 
@@ -94,6 +94,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Adaptive mode net for AI:** many small hypertuned task models that are called to complete a single complex task. General models only go so far, hypertuned task models will be better than a general reasoning model.
  - **Zcamp:** Using killmail parsing to detect clusters of players in camps in EVE Online. Originally for being alerted immediately to officer NPC losses.
  - **OpenSleep:** Open source sleep tech products. DIY kit version of 8Sleep's mattress cooler. A 3D scanned/printed custom sleep mask. A custom pillow. etc.
+ - **Progomatter:** For poor people who can't afford claude code. Formats and combines all your project files into a format readable by Gemini/Claude/Chatgpt and drag at once. Autorefreshes.
 
 # 2023
  - Chaos

@@ -3,8 +3,6 @@ All of my product ideas that at some point sounded interesting to me, even the s
 Based on articles I've read, problems I've learned about, new emerging technologies, and spontaneous dreams.
 If somehow this list helps you become rich and famous +rep
 
-If you have an idea, so does someone else. They are emergent patterns and our brains recognize the shapes once all the information is there. The problem is ability to execute based on knowledge and circumstance.
-
 If I see one of my old ideas somewhere as a product, I'll cross it off here.
 
 # 2026

@@ -92,6 +92,8 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Elecbric:** Fabric that somehow hardens when an electric current is passed through it.
  - **Sneaker:** A device cable attachment that remains powered when you toss it onto a powerline
  - **Adaptive mode net for AI:** many small hypertuned task models that are called to complete a single complex task. General models only go so far, hypertuned task models will be better than a general reasoning model.
+ - **Zcamp:** Using killmail parsing to detect clusters of players in camps in EVE Online. Originally for being alerted immediately to officer NPC losses.
+ - **OpenSleep:** Open source sleep tech products. DIY kit version of 8Sleep's mattress cooler. A 3D scanned/printed custom sleep mask. A custom pillow. etc.
 
 # 2023
  - Chaos

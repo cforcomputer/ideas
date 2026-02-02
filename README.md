@@ -8,8 +8,8 @@ If you have an idea, so does someone else. They are emergent patterns and our br
 If I see one of my old ideas somewhere as a product, I'll cross it off here.
 
 # 2026
- -  **Freshfruit:** a db of when all the in season fruits are. App and hardware eink screen. Enter wifi auto and will tell you based on gps what is currently in season or available in supermarkets
- -  **Top hacker news bot:** A simple bot that only posts hacker news stories over a certain threshhold (say, 1000 upvotes).
+ -  **Freshfruit:** a db of when all the in season fruits are. App and hardware eink screen calendar. Enter wifi auto and will tell you based on gps what is currently in season or available in supermarkets
+ -  **Top hacker news bot:** A simple bot that only posts hacker news stories over a certain threshhold (say, 1000 upvotes). Can also aggregate from spectrum.ieee, hackaday, etc. 
  -  **Infrared mouse handwarmer:** A reflector panel that warms your desk with infrared light in cold weather (my hands are currently numb)
  -  **OpenPrompter:** An open source, cheap paid app for teleprompters that follows what you're saying. Uses a language recognition model. ez?
  -  **Laydown:** A wearable that shocks you when until you go to the bedroom. Shows countdown of how much sleep you're losing. Watch app?
@@ -26,8 +26,8 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **SAM (super awesome machine):** Haulcraft droid, just camera/etc. from star wars but as a personal companion.
  -  **BigBoston:** An AI voice clone of an extremely thick boston accent.
  -  **Pat's extremely dry raisins:** I hate it when raisins are moist. I love the ones that are like chewy candy in cereal. Just dry them longer and sell them.
- -  
- -  
+ -  **Patstack (Data Services):** A company offering live datasets for pricing models (web scraping). 
+ -  **NabYourHome NL:** A web app + Whatsapp bot using aggregated listings to instantly alert you when a new home meeting your specifications is listed.
 # 2025
  - **Blide:** A drone bomb carried to the stratosphere by a weather balloon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).
  - **LivePDF:** A localized micro website contained in a file that behaves like a pdf, but can be interactive and offer more flexibility.

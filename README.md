@@ -26,6 +26,12 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Pat's extremely dry raisins:** I hate it when raisins are moist. I love the ones that are like chewy candy in cereal. Just dry them longer and sell them.
  -  **Patstack (Data Services):** A company offering live datasets for pricing models (web scraping). 
  -  **NabYourHome NL:** A web app + Whatsapp bot using aggregated listings to instantly alert you when a new home meeting your specifications is listed.
+ -  **llm api youtube titler:** Web app background prompt = famous youtuber titles and thumbnails. Paste what you video is about and it will translate it to the selected style.
+ -  **Wireless recharger:** Magnetic snap on to back of small household devices that recharges their internal battery, for home iot. No need for constantly disposing of old button batteries.
+ -  **InformedThread:** Ai agents that read popular hacker news threads and reddit threads and then generate a video for youtube simulating the conversation in an educational way.
+ -  **ReallySimpleRSS:** Simple cloud service like old reddit: has a huge library of rss feeds, add a plugin to automatically retrieve the rss feed for that site and it to your synced library.
+ -  **Youtube lists:** A simple webapp that lets people share lists of their favorite youtubers. Has a clear category list with popularity rankings.
+
 # 2025
  - **Blide:** A drone bomb carried to the stratosphere by a weather balloon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).
  - **LivePDF:** A localized micro website contained in a file that behaves like a pdf, but can be interactive and offer more flexibility.

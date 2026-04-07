@@ -40,6 +40,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Gitwriting:** "get writing" A code style writing tool that let's you do draft commit and go back through history to view all your previous changes and additions. Let's you track progress and integrates the git workflow in a user friendly way for writers.
  -  **AlphaBrail:** a device that reads to you by drawing on your skin (palm, somewhere with high density nerves, but normal alphabet.
  -  **StaticCMS/pageCMS:** a super basic crm for github pages/cloudflare static sites that is hosted separately (local only or cloud option). Link git after login with github, access from anywhere.
+ -  **Applicator AI:** another AI job auto applier (made my own, it was super easy) 
 
 
 # 2025

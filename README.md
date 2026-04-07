@@ -1,5 +1,5 @@
 # ideas
-All of my product ideas that at some point sounded interesting to me, even the silly ones that just popped up in my head for a second.
+All of my product ideas that at some point sounded interesting to me, **even the dumb ones** that just popped up in my head for a second.
 Based on articles I've read, problems I've learned about, new emerging technologies, and spontaneous dreams.
 If somehow this list helps you become rich and famous +rep
 
@@ -30,7 +30,17 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Wireless recharger:** Magnetic snap on to back of small household devices that recharges their internal battery, for home iot. No need for constantly disposing of old button batteries.
  -  **InformedThread:** Ai agents that read popular hacker news threads and reddit threads and then generate a video for youtube simulating the conversation in an educational way.
  -  **ReallySimpleRSS:** Simple cloud service like old reddit: has a huge library of rss feeds, add a plugin to automatically retrieve the rss feed for that site and it to your synced library.
- -  **Youtube lists:** A simple webapp that lets people share lists of their favorite youtubers. Has a clear category list with popularity rankings.
+ -  **Youtube lists:** A simple webapp that lets people share lists of their favorite youtubers. Has a clear category list with popularity rankings. Grey out clicked ones.
+ -  **UV cured solar membranes:** An extruded liquid solar cell that when thermally/uv activated, creates a flexible, ultra-thin film that expands in all directions from the unit in zero gravity.
+ -  **AutAudio:** using ai to quiet breathes, but in a natural way. Cuts up audio clips in Premiere Pro or Davinci and allows mass adjustments or mute.
+ -  **Plantmats:** Genetically engineering algae to create flat mats on the surface of ocean water. Plastic mats or surface for other life. Green super oxygen colonies?
+ -  **Tubematters:** AI service to read transcripts of youtube videos and tell you when a new video appears with your topic of interest.
+ -  **Levaud Replicator:** precise acoustic suspension of uv curable resin to form 3d objects (tophat design)
+ -  **DynaContract:** Third party flexible work contract service. Work x days for y months if need less money more time, not counted as vacation not counted as gig work. Innovation contract.
+ -  **Gitwriting:** "get writing" A code style writing tool that let's you do draft commit and go back through history to view all your previous changes and additions. Let's you track progress and integrates the git workflow in a user friendly way for writers.
+ -  **AlphaBrail:** a device that reads to you by drawing on your skin (palm, somewhere with high density nerves, but normal alphabet.
+ -  **StaticCMS/pageCMS:** a super basic crm for github pages/cloudflare static sites that is hosted separately (local only or cloud option). Link git after login with github, access from anywhere.
+
 
 # 2025
  - **Blide:** A drone bomb carried to the stratosphere by a weather balloon, then dropped and able to glide 300+km with no fuel or heat necessary at high speed (once falling).
@@ -62,7 +72,6 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Driveby:** A motion sensor that records the vibrations over time for a motor to detect failure. Preventative maintenance. Attached magnetically, uses a piezo for vibrations, lora to connect to a hub and transmit the signal.
  -  **Fakecharts:** Really simple AI chart generator site for people who want a convincing chart from incomplete or nonexistent data. Allows the user to drag around lines to automatically generate data for false charts or charts for videos. For example showing the relationship between social isolation and anxiety.
  -  **Annologic:** Big, dead simple minimalist "smash" timer plug for bedside tables, plug it in and hit the timer to have it turn off after 15/ 5/20 min. E-ink display. Warm glowing brick. 
- -  
 
 
 # 2024

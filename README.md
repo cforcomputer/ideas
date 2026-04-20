@@ -45,6 +45,8 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Opticoast:** Stringing a fiber optic cable across an entire coast to monitor when objects pass over it. It can be deployed with a series of solar powered bouy drones. Specific monitored points for ingress and exit. Tiny nodes along the fiber? https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways
  -  **Ribbon drones:** For indoor navigation, using long ribbons of flexible plastic or metal to pull a drone through a building. Like a party horn. Uses ceiling, floor, walls, at the same time and falls forwards, catching itself.
  -  **EasyInteractors:** A web tool for making easy annotated charts or 3D models, where you can click on a part and see where it is in the image, highlighted. (ex: complicated pc build). Share/Embedded
+ -  **RewildHomes:** 401C Nonprofit that buys farmland to restore it as a nature preserve, while also creating green tiny homes with wild plants for people to live affordably in carbon neutral communities.
+
 
 
 # 2025

@@ -40,7 +40,10 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Gitwriting:** "get writing" A code style writing tool that let's you do draft commit and go back through history to view all your previous changes and additions. Let's you track progress and integrates the git workflow in a user friendly way for writers.
  -  **AlphaBrail:** a device that reads to you by drawing on your skin (palm, somewhere with high density nerves, but normal alphabet.
  -  ~~**StaticCMS/pageCMS:** a super basic crm for github pages/cloudflare static sites that is hosted separately (local only or cloud option). Link git after login with github, access from anywhere.~~ exists: pagescms
- -  **Applicator AI:** another AI job auto applier (made my own, it was super easy) 
+ -  **Applicator AI:** another AI job auto applier (made my own, it was super easy). Skills for each site, still finding the best approach for efficiency and discovery.
+ -  **Splatstream:** a tool that creates a live guassian splat image combination of multiple video feeds to show a 3d view of a classroom or meeting room? you can see students as glowing blue outlines as they attend through vr glasses.
+ -  **Opticoast:** Stringing a fiber optic cable across an entire coast to monitor when objects pass over it. It can be deployed with a series of solar powered bouy drones. Specific monitored points for ingress and exit. Tiny nodes along the fiber? https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways
+ -  **Ribbon drones:** For indoor navigation, using long ribbons of flexible plastic or metal to pull a drone through a building. Like a party horn. Uses ceiling, floor, walls, at the same time and falls forwards, catching itself.
 
 
 # 2025
@@ -188,7 +191,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **BiggerBatteries:** Increase battery surface area by using molecular sieve manufacturing principles? (I don't know how batteries work)
  - ~~**VTuberAI** - neural network voice modulator. The best male to female voice or female to male modulator with free trial plan, adjusts tonality of person’s voice. Custom trained models for extra.~~ kind exists
  - ~~Using LIDAR/phone cameras to gather measurements on person’s face (photogrammetry application with inverse mold?), then 3D print a mold for a custom fitted mask, or partial silicone component for their nose. Stops glasses from fogging. Can be used with a normal cloth mask (velcro/magnets). Optional full face silicone frame for swappable fabric colors, full seal.~~ exists, but not as standalone service.
- - **ShopQuick:** An AR service for stores that lets them submit a floor plan to the app, so customers can find everything they need in their list quickly. Optimizes route and shows lines to direct them to their next product. Free, analytics pays for service
+ - **ShopQuick+:** An AR service for stores that lets them submit a floor plan to the app, so customers can find everything they need in their list quickly. Optimizes route and shows lines to direct them to their next product. Free, analytics pays for service. Could also be radio tag. Autoroute based on recipes and ingredients.
  - **Subbook:** A barebones laptop with 0 local storage that is subscription based. You’re really buying the right to rent a cloud server with a far more powerful machine. Works on mobile networks and wifi.
  - **StatGrip:** uses electric static charge to adhere wearables to the skin without the use of glues. Potential for BMI, body trackers, flexible screens? (Not sure possible, see super insulators)
  - ~~**ExpoSense:** Tracks exposure to air quality and UV. Tracks UV exposure and location data to see if you are outside or not. Links to smartphone and grabs air quality index from online for your area. Target areas like india and China and warns you if you are approaching dangerous exposure levels. Also warns about potential contagions.~~ Exists on CrowdSupply 2025.

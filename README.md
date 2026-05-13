@@ -30,7 +30,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Wireless recharger:** Magnetic snap on to back of small household devices that recharges their internal battery, for home iot. No need for constantly disposing of old button batteries.
  -  **InformedThread:** Ai agents that read popular hacker news threads and reddit threads and then generate a video for youtube simulating the conversation in an educational way.
  -  **ReallySimpleRSS:** Simple cloud service like old reddit: has a huge library of rss feeds, add a plugin to automatically retrieve the rss feed for that site and it to your synced library.
- -  **Youtube lists:** A simple webapp that lets people share lists of their favorite youtubers. Has a clear category list with popularity rankings. Grey out clicked ones.
+ -  **Youtube lists:+** A simple webapp that lets people share lists of their favorite youtubers. Has a clear category list with popularity rankings. Grey out clicked ones.
  -  **UV cured solar membranes:** An extruded liquid solar cell that when thermally/uv activated, creates a flexible, ultra-thin film that expands in all directions from the unit in zero gravity.
  -  **AutAudio:** using ai to quiet breathes, but in a natural way. Cuts up audio clips in Premiere Pro or Davinci and allows mass adjustments or mute.
  -  **Plantmats:** Genetically engineering algae to create flat mats on the surface of ocean water. Plastic mats or surface for other life. Green super oxygen colonies?
@@ -45,7 +45,15 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Opticoast:** Stringing a fiber optic cable across an entire coast to monitor when objects pass over it. It can be deployed with a series of solar powered bouy drones. Specific monitored points for ingress and exit. Tiny nodes along the fiber? https://spectrum.ieee.org/distributed-acoustic-sensing-trains-railways
  -  **Ribbon drones:** For indoor navigation, using long ribbons of flexible plastic or metal to pull a drone through a building. Like a party horn. Uses ceiling, floor, walls, at the same time and falls forwards, catching itself.
  -  **EasyInteractors:** A web tool for making easy annotated charts or 3D models, where you can click on a part and see where it is in the image, highlighted. (ex: complicated pc build). Share/Embedded
- -  **RewildHomes:** 401C Nonprofit that buys farmland to restore it as a nature preserve, while also creating green tiny homes with wild plants for people to live affordably in carbon neutral communities.
+ -  **RewildHomes:** 401C Nonprofit that buys farmland to restore it as a nature preserve, while also creating green tiny homes rent/buy with wild plants for people to live affordably in carbon neutral communities.
+ -  **IsItTrademarked (site):** Enter a company name idea, searches the internet/databases in major countries and returns summarized results saying if it exists already.
+ -  **BuddyBot:** a robot (that is not floating, has wheels) that goes around the person to create epic timelapse shots and rail shots. replaces hollywood rail and tracking shots. has a tracking mount like dji ronin also has smooth up and down motion + complete isolation? Looks cute + removes sound of own wheels with ai audio.
+ -  **Jobbadaclick**: the one click apply button for job sites. or any form. will use your stored resume and profile questions to fill with a single click, like a password manager. Save skills, monitor companies, get daily recommendations with autoapply.
+ -  **DeWrink:** Like self tightening shoes but for bedsheets. Band goes through the loops. motor reels it in until the sheet is tight. pressure resistance sensor stops automatically. no creases ever always smooth.
+ -  **CanTag:** Make can barcodes on bottom of cans for return refunds, make them like brail, so that a lidar scanner can see them easily. Then you can crush your cans and still return them.
+ -  **Prank Embeddings:** Like fakecharts but for discord or chat embeddings. Still forwards to the right article, but you can enter whatever you want for the text and picture.
+ -  **EasyDebt visualizer:** vs yearly income, vs richest people, vs stupid ass investments. See how bills affect what, see which policies would pay off what the fastest. Also compare city budgets, etc.
+ -  
 
 
 

@@ -1,9 +1,11 @@
 # ideas
 All of my product ideas that at some point sounded interesting to me, **even the dumb ones** that just popped up in my head for a second.
 Based on articles I've read, problems I've learned about, new emerging technologies, and spontaneous dreams.
-If somehow this list helps you become rich and famous +rep
+If somehow this list helps you become rich and famous please +1 credit on the reputation market. 
 
 If I see one of my old ideas somewhere as a product, I'll cross it off here.
+
+Ideas are cheap, it's the execution that's valuable.
 
 # 2026
  -  **Freshfruit:** a db of when all the in season fruits are. App and hardware eink screen calendar. Enter wifi auto and will tell you based on gps what is currently in season or available in supermarkets
@@ -53,6 +55,9 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **CanTag:** Make can barcodes on bottom of cans for return refunds, make them like brail, so that a lidar scanner can see them easily. Then you can crush your cans and still return them.
  -  **Prank Embeddings:** Like fakecharts but for discord or chat embeddings. Still forwards to the right article, but you can enter whatever you want for the text and picture.
  -  **EasyDebt visualizer:** vs yearly income, vs richest people, vs stupid ass investments. See how bills affect what, see which policies would pay off what the fastest. Also compare city budgets, etc.
+ -  **Gel Brain:** Preserving human brains with a macro version of expansion microscopy - a preservative gel that expands within the cells, preserving all tissue in a scannable state.
+ -  **Stopword trainer:** A collar that shocks you every time you say the word "like" or "uhhh"
+ -  **Housing mortality:** A death counter that shows available housing based on public population and development forecasts for world cities. 
  -  
 
 
@@ -123,6 +128,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **Zcamp:** Using killmail parsing to detect clusters of players in camps in EVE Online. Originally for being alerted immediately to officer NPC losses.
  - **OpenSleep:** Open source sleep tech products. DIY kit version of 8Sleep's mattress cooler. A 3D scanned/printed custom sleep mask. A custom pillow. etc.
  - **Progomatter:** For poor people who can't afford claude code. Formats and combines all your project files into a format readable by Gemini/Claude/Chatgpt and drag at once. Autorefreshes.
+ - **Saffri:** A robot that uses machine vision to pick the stamens of saffron plants, removing the main cost of human labor. 
 
 # 2023
  - Chaos

@@ -58,6 +58,10 @@ Ideas are cheap, it's the execution that's valuable.
  -  **Gel Brain:** Preserving human brains with a macro version of expansion microscopy - a preservative gel that expands within the cells, preserving all tissue in a scannable state.
  -  **Stopword trainer:** A collar that shocks you every time you say the word "like" or "uhhh"
  -  **Housing mortality:** A death counter that shows available housing based on public population and development forecasts for world cities. 
+ -  **OpSearch:** A company that solves problems for people by matching their issue to a startup's product. AI search for the product, if no match, it sends a request for it be developed, or they can pay.
+ -  **Solid:** digital asset currency in a game backed by physical asset. This is dumb, but say a unique item is backed by x amount of real currency. So it not exchange rate valued, but rare items have actual value? If an epic item is found, the company backs it by buying a small gold cube to represent that item.
+ -  **tempo beat:** credit not mine: allows you to sync different band players to unique tempos/rhythms, forming a complicated song using computer software and live instruments
+ -  **Voice controlled tape dispenser:** Say the length, and it will cut it for you automatically. All local.
  -  
 
 
@@ -73,7 +77,7 @@ Ideas are cheap, it's the execution that's valuable.
  - **FreezScreen:** Electric frosting glass phone cover. For schools, for sleep. Trigger when specific apps are opened.
  - **Droid language:** An audio signalling command language for robots to communicate and signal without being distracting or requiring network connectivity (like in star wars, but real)
  - **BorgBowl:** A kibble dispenser that teaches your dog or cat to speak like a human. Deposits a treat after they mimick a bark Then it changes the bark to see if they can mimick it, subtle shift until it sounds like "I want a treat".
- -  **ReedSleep:** A decibel meter simple click and go universal sleep environment quality tracker. Plug and play, easy sleep environment score with optional breakdown.
+ -  **ReedSleep+:** A decibel meter simple click and go universal sleep environment quality tracker. Plug and play, easy sleep environment score with optional breakdown. sleepsense box - all sensors + band?
  -  **The Noort:** Records only your voice using a model to isolate sound. Gives you a summary of what you said for the entire day, then gives feedback on how to lead a healthier life, archive of your entire life.
  -  **graffitijet:** Handheld inkjet printer that uses location spatial data to print a picture on a wall regardless of how shaky or how much you move the handheld printer it will always draw the perfect picture.
  -  **Remootice:** People can put on a vr headset, walk up to the desk, and see and interact with the person there, as they are rendered as 3d scan at their home office tower when they are sitting in their seat. Another version of ncorporeal.

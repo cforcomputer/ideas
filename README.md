@@ -35,7 +35,7 @@ Ideas are cheap, it's the execution that's valuable.
  -  **Youtube lists:+** A simple webapp that lets people share lists of their favorite youtubers. Has a clear category list with popularity rankings. Grey out clicked ones.
  -  **UV cured solar membranes:** An extruded liquid solar cell that when thermally/uv activated, creates a flexible, ultra-thin film that expands in all directions from the unit in zero gravity.
  -  **AutAudio:** using ai to quiet breathes, but in a natural way. Cuts up audio clips in Premiere Pro or Davinci and allows mass adjustments or mute.
- -  **Plantmats:** Genetically engineering algae to create flat mats on the surface of ocean water. Plastic mats or surface for other life. Green super oxygen colonies?
+ -  **Plantmats:** Genetically engineering algae to create flat mats on the surface of ocean water. Plastic mats or surface for other life. Green super oxygen colonies? Artificial floating reefs with gene modded mangrove trees 
  -  **Tubematters:** AI service to read transcripts of youtube videos and tell you when a new video appears with your topic of interest.
  -  **Levaud Replicator:** precise acoustic suspension of uv curable resin to form 3d objects (tophat design)
  -  **DynaContract:** Third party flexible work contract service. Work x days for y months if need less money more time, not counted as vacation not counted as gig work. Innovation contract.

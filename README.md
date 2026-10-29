@@ -62,8 +62,26 @@ Ideas are cheap, it's the execution that's valuable.
  -  **Solid:** digital asset currency in a game backed by physical asset. This is dumb, but say a unique item is backed by x amount of real currency. So it not exchange rate valued, but rare items have actual value? If an epic item is found, the company backs it by buying a small gold cube to represent that item.
  -  **tempo beat:** credit not mine: allows you to sync different band players to unique tempos/rhythms, forming a complicated song using computer software and live instruments
  -  **Voice controlled tape dispenser:** Say the length, and it will cut it for you automatically. All local.
- -  
-
+ -  **Philform:** A browser extension that uses a user's personal details to instantly fill forms. Cute & friendly.
+ -  **AI Cowork:** Coworker manager wanted a way to have multiple people editing a chat document report output at the same time. Google docs for AI chats.
+ -  **Macroscopic:** Preserving human brains with a macro version of expansion microscopy - a preservative gel that expands all the tissue before it is scanned.
+ -  **Bitbelt:** Screwdriver has a camera, identify the bit used [exists]([exists](https://newatlas.com/knives-multitools/arrowspace-52-in-1-ai-screwdriver/)) but then have a belt driven selector. Simply insert driver into hole, correct bit filled.
+ -  **Smash. Money!:** Binary keyboard for sports gamblers. Places a bet when hitting red/green. Faster you are, more money you can make.
+ -  **Travelpod++:** Single person capsules that are picked up by flying drones and deposited in a chute for loading. Just bigger delivery drones, carrying people. Own the pod, not the drone.
+ -  **Soft VR goggles:** Carrying from the e-ink headset idea. Relax, read, no bright light, also a sleep mask.
+ -  **Stratecom:** Paper trading model finder that is hooked up to claude code. Simulates based on real data in an infinite loop, checking off strategies until it identifies one that consistently makes money.
+ -  **Replicator printer:** Using ai to refine the algorithm for levitating an object with transducers. Making wobble almost completely absent. making it fast enough to rapidly move tiny droplets to an exact position in space, using lidar/camera to track in real time. 3D print uv curable resin droplets with flashed ir. Could also do tiny beads of metal then flash melt into shape using a laser.
+ -  **Governator:** People submit their problems. ai analyzes each message and assigns it a category. based on mentioned location it creates a heatmap that allows governments to more effectively take action on repeat issues.
+- **New metal:** 3D printer using magnetic confinement and sputtering to create a single electron deposition model and ultra precise element placement. Litho layering?
+- **Navband:** Belt with haptic sensors so you don't have to look at your phone when using google maps.
+- **Real aimbot gun:** Uses AI to move the barrel instantly to the head.
+- **Active NFC business card:** Transmits a loud NFC signal using solar panel on both sides.
+- **Lock decoder:** Ultra thin lidar for mapping inside of a lock?
+- **Device for stomach sleepers:** Bed extension for top, fits any bed. Like massage table.
+- **Magnetic forging?:** Using magnetic fields to shape molten metal before it cools? Can we make it more accurate with simulation?
+- **Universal broadcast ID:** Everyone has a secure handshake id. No need to use phones or id cards. Just verify with a gesture.
+- **Optomtrix:** LLM harness and WISPR to turn spoken shorthand into code (combine with mutter?)
+- 
 
 
 # 2025

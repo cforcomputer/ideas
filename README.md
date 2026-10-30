@@ -5,7 +5,12 @@ If somehow this list helps you become rich and famous please +1 credit on the re
 
 If I see one of my old ideas somewhere as a product, I'll cross it off here.
 
-Ideas are cheap, it's the execution that's valuable.
+- Ideas are cheap, it's the execution that's valuable.
+- write the press release first
+- Constraints are key to innovation
+- the best ideas are not your first idea. we tend to fixate on our first ideas. the best ideas come later
+- Only total despair proceeds a change in consciousness
+- 
 
 # 2026
  -  **Freshfruit:** a db of when all the in season fruits are. App and hardware eink screen calendar. Enter wifi auto and will tell you based on gps what is currently in season or available in supermarkets
@@ -79,9 +84,42 @@ Ideas are cheap, it's the execution that's valuable.
 - **Lock decoder:** Ultra thin lidar for mapping inside of a lock?
 - **Device for stomach sleepers:** Bed extension for top, fits any bed. Like massage table.
 - **Magnetic forging?:** Using magnetic fields to shape molten metal before it cools? Can we make it more accurate with simulation?
-- **Universal broadcast ID:** Everyone has a secure handshake id. No need to use phones or id cards. Just verify with a gesture.
+- **Universal broadcast ID/Header+:** Everyone has a secure handshake id. No need to use phones or id cards. Just verify with a gesture. A self contained network hotspot wearable that broadcasts whatever you want. with glasses you can see the message tags. Glance to pay.
 - **Optomtrix:** LLM harness and WISPR to turn spoken shorthand into code (combine with mutter?)
-- 
+- **Swarm Trader:** Pay $5 per month to contribute your agent's compute to processing market data for trading opportunities. Join the hive. Get paid.
+- **Overlay:** VR applied over robots using real time video generation model and synced.
+- **Smart shopping carts v2:** You tell it what you want and it will take you there, like it's a robot.
+- **Clearbots:** toss into building with grenade launcher, hunts for targets inside the building. armored rolling ball?
+- **Airdrag:** airtag but with deactivatable motion alarm if someone is dragging the container
+- **AR glasses search:** enter a bookstore. It prompts you what you are interested in. Then you mumblechat scifi. and it guides you through the store and highlights the bookshelves with scifi
+- **Mutterband:** Looks like a choker, but it is a throat mic for mutterspeak.
+- ~~**RealTower:** plugin for flight simulator that adds real input for pilot speak, required when taking off. (exists)~~
+- **Splogcoin:** 20 splog please
+- **$1 version of iaWriter:** $20 for a writing app? Really?
+- **Hydrogen kite:** Water drone coverts sea water to fresh hydrogen, uses ocean as base to refuel. refills balloon. electricity solar platform up and down.
+- **HEPA nose plug:** For polluted areas where you don't want to wear a full mask.
+- **Latch lock for usb-c accessories:** Like old vga but better
+- **EverythingStylus:** using a mouse pointer attached to your favorite pencil to mirror writing wirelessly into a computer open source without a separate mouse.if you go back and mark something off, it needs to be able to recognize that somehow
+- **Infinite shoe:** shoe design with metal grating that is screwed in? replaceable rubber inserts. Apply Apple's electric release adhesive?
+- **completion app - world travel %:** combine with the virtual tours. make better with ar. self guided tours using precise gps and custom recordings using synopsis from wikipedia and open streetmap. pay €1 for a tour or sub for all. witty funny writing. use your own headphones.
+- **Claude co-writer for gdocs:** Live clauded view as you write to correct sentence structure, shows highlighted words in different colors like iaWriter, tells if you if it's not a grammatically correct.
+- **Landcarriers:** hot swappable flatbeds for landcarrier drones, carrying drones, or fuel, or whatever.
+- **A smart pencil:** probably already made, but smart pencil that uses a laser or similar mechanism to detect how much lead is extruded. And whenever pressure is removed, the rod should trigger a rotate mechanism, very thin long pcb. or a flexible pcb wrap around the motor.
+- **Snap-magsafe smart wall plugs:** Plug into the wall, the wall plug is flat. the cord is flat. Adapter for both. Powered on only when snapped together.
+- **Snapmag for home assistant++:** Snap battery to iot appliances. Simply pull off the front and replace with a fresh one. Rechargeable coin cells/battery in magnet.
+- **opydron:** art of piecing together the many bubbles of mental models into a singular fractalular to see where the next leap will occur. A science of creativity. what science fiction authors do without realising it. it can be a science?
+- **Foot visualizer:** shows how your foot will fit in the shoe. like the black diamond app. can also be physical hardware for shoe stores. Scan with phone.
+- **Rubber mouse mat:** dense hard and smooth rubber mounted to a solid stainless steel backplate for a mouse. Found something that felt incredible on a boat(?).
+- **Band:** the dating thing for smart glasses. either invisible band ink like red colored, says "I'm single and looking for a partner." but you can only see it with a camera sensor??
+- **Shitpost yt:** a channel that just reads reddit shitposts
+- **Indexicom:** a company that provides very specific tailored google-like search engines for niche markets. Like itemfinder.
+- **Annabook:** a e-reader that is really easy to load pirated books directly from anna's archive. Or whatever pirate archive is big at the time.
+- **Groundlings:** take the coastal fiber optic idea, apply it to the entire front. line that monitors acoustics and vibrations in capsules. detects digging equipment, voices in the ground with buried microphones?
+- **continuing E-ink VR headset:** screens suspended on fully adjustable wire-like frame (organic?) Then wrapped in a white or black cloth? So you can type and write with natural light, also remove it to feel more outside-ee (most relaxing by far). looks like some kind of high tech sandperson gadget wrapped in cloth. nasa space fabric?
+- **Botwrite detector:** use llms to detect other obvious botted questions on forums.
+- **Capture box:** tiny pedestial in a light box of varying size. for large companies. place it in the box, flash flash flash. no rotation needed. Builds an image of every angle and stitches together and outputs a 3d model. checks with llm, removes background artifacts. takes 5 seconds. Rental. 
+
+
 
 
 # 2025

@@ -76,7 +76,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **Soft VR goggles:** Carrying from the e-ink headset idea. Relax, read, no bright light, also a sleep mask.
  -  **Stratecom:** Paper trading model finder that is hooked up to claude code. Simulates based on real data in an infinite loop, checking off strategies until it identifies one that consistently makes money.
  -  **Replicator printer:** Using ai to refine the algorithm for levitating an object with transducers. Making wobble almost completely absent. making it fast enough to rapidly move tiny droplets to an exact position in space, using lidar/camera to track in real time. 3D print uv curable resin droplets with flashed ir. Could also do tiny beads of metal then flash melt into shape using a laser.
- -  **Governator:** People submit their problems. ai analyzes each message and assigns it a category. based on mentioned location it creates a heatmap that allows governments to more effectively take action on repeat issues.
+ -  **Governator (built as [Polity](https://github.com/cforcomputer/polity) - no prize at hackathon:** People submit their problems. ai analyzes each message and assigns it a category. based on mentioned location it creates a heatmap that allows governments to more effectively take action on repeat issues.
 - **New metal:** 3D printer using magnetic confinement and sputtering to create a single electron deposition model and ultra precise element placement. Litho layering?
 - **Navband:** Belt with haptic sensors so you don't have to look at your phone when using google maps.
 - **Real aimbot gun:** Uses AI to move the barrel instantly to the head.

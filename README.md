@@ -42,7 +42,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  -  **AutAudio:** using ai to quiet breathes, but in a natural way. Cuts up audio clips in Premiere Pro or Davinci and allows mass adjustments or mute.
  -  **Plantmats:** Genetically engineering algae to create flat mats on the surface of ocean water. Plastic mats or surface for other life. Green super oxygen colonies? Artificial floating reefs with gene modded mangrove trees 
  -  **Tubematters:** AI service to read transcripts of youtube videos and tell you when a new video appears with your topic of interest.
- -  **Levaud Replicator:** precise acoustic suspension of uv curable resin to form 3d objects (tophat design)
+ -  **Levaud Replicator (see: [acoustic-replicator](https://github.com/cforcomputer/acoustic-replicator):** precise acoustic suspension of uv curable resin to form 3d objects (tophat design)
  -  **DynaContract:** Third party flexible work contract service. Work x days for y months if need less money more time, not counted as vacation not counted as gig work. Innovation contract.
  -  **Gitwriting:** "get writing" A code style writing tool that let's you do draft commit and go back through history to view all your previous changes and additions. Let's you track progress and integrates the git workflow in a user friendly way for writers.
  -  **AlphaBrail:** a device that reads to you by drawing on your skin (palm, somewhere with high density nerves, but normal alphabet.

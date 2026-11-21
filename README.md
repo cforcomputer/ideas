@@ -132,7 +132,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
 - **Svalinn:** Using a swarm of cheap drones carrying directional shrapnel explosives to blanket an object in the incoming strike vicinity of a ballistic missile, triggering detonation at impact moment. sacrificing themselves if necessary by moving into the path of the incoming projectile. Also for marine use. Tethered? City buildings?
 - **Suction rep counter?**. solar auto rep counter for dumbbells that’s tiny and not a part of the phone. resets when not moving for a bit. audio? see: lolms
 - **ToobReviews:** youtube top reviews. scrapes transcripts from all youtube reviewers and condenses it into a big news site with affiliate links. tier list best of.
-- 
+- **Invulse:** Using high resolution array of tiny electrical pricks to hack the nervous system into feeling a virtual object. 
 
 
 

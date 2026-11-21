@@ -117,7 +117,23 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
 - **Groundlings:** take the coastal fiber optic idea, apply it to the entire front. line that monitors acoustics and vibrations in capsules. detects digging equipment, voices in the ground with buried microphones?
 - **continuing E-ink VR headset:** screens suspended on fully adjustable wire-like frame (organic?) Then wrapped in a white or black cloth? So you can type and write with natural light, also remove it to feel more outside-ee (most relaxing by far). looks like some kind of high tech sandperson gadget wrapped in cloth. nasa space fabric?
 - **Botwrite detector:** use llms to detect other obvious botted questions on forums.
-- **Capture box:** tiny pedestial in a light box of varying size. for large companies. place it in the box, flash flash flash. no rotation needed. Builds an image of every angle and stitches together and outputs a 3d model. checks with llm, removes background artifacts. takes 5 seconds. Rental. 
+- **Capture box:** tiny pedestial in a light box of varying size. for large companies. place it in the box, flash flash flash. no rotation needed. Builds an image of every angle and stitches together and outputs a 3d model. checks with llm, removes background artifacts. takes 5 seconds. Rental.
+- **Arch & Edison:** An AI-hardware company that takes people's ideas and their money and builds them a hardware prototype for cheap (using AI to generate the pcbs and design files).
+- **MicroWeight:** Apartment weightlifting gym setup, machines, etc using tungsten pellets to keep everything compact.
+- **Bikeaware:** A helmet attachment or some kind of headband for bikers where it uses the same vision system in a Tesla to detect when cars aren’t slowing down like a normal radar back light
+- **NaturalChat:** Using real time conversational awareness back and forth with audio LLM using 11labs api to progress rapidly in a conversational language of your choice. Like a 24/7 personal tutor.
+- **Chunki:** llm breaks down a wikipedia page into bite-sized educational chunks so you can fully grasp even a heavy science based flow. tool to rapidly parse new vocabulary and concepts by expanding in the text the definitions of concepts you haven't marked learned.
+- **Splider:** using ferrofluid derivative to create a shapeshifting antenna
+- **Ultrapatch:** possible to vibrate the bone using a tiny ultrasonic sticker like in dune?
+- **DenseSound:** using graphite felt for acoustic absorption?
+- **ShiftClick:** Uber for movers. Pickup truck? Do gig work to help people pick things up or move their furniture.
+- **Glassop:** Glass and metal alternatives to common plastic appliances. They fit the first party tool like brita, but the storage is not plastic.
+- **Purshell:** Premium titanium, aluminum and stainless steel protective hardshell cases for different Apple devices. Perfectly smooth with rounded corners, magnetic latch - exact fit foam/rubber interior. 
+- **Svalinn:** Using a swarm of cheap drones carrying directional shrapnel explosives to blanket an object in the incoming strike vicinity of a ballistic missile, triggering detonation at impact moment. sacrificing themselves if necessary by moving into the path of the incoming projectile. Also for marine use. Tethered? City buildings?
+- **Suction rep counter?**. solar auto rep counter for dumbbells that’s tiny and not a part of the phone. resets when not moving for a bit. audio? see: lolms
+- **ToobReviews:** youtube top reviews. scrapes transcripts from all youtube reviewers and condenses it into a big news site with affiliate links. tier list best of.
+- 
+
 
 
 
@@ -128,7 +144,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **MicTango:** Microphone array module for trains letting them follow a specific sound signature even at high speed.
  - **Packater:** Immediately find boxes with reusable sim tags stickers, for package delivery points in nl.
  - **GorG:** Thermal nose sensor for stress testing. Nose gets cold when stressed (or maybe getting ill). Can scan at company doors, monitor for bed, etc.
- - **Lolms:** Local llm models that have a personality and explain about an object they are attached to. Example: a lightbulb, a fancy toilet, a museum piece. "Hello citizen. I am killing ticks"
+ - **Lolms:** Local llm models that have a personality and explain about an object they are attached to. Example: a lightbulb, a fancy toilet, a museum piece. "Hello citizen. I am killing ticks". Simple circle slap on.
  - **ncorporeal:** Could be used in conjuction with lolms. Use 3d effect glass with AI head vtuber ai, like a 3D glass. Remote 3d head display for walking up to desk and talking with a wfh employee. Green light when at computer and motion detected. Webcam app + AI to generate 3d head. Use the glass optical illusion trick.
  - **FreezScreen:** Electric frosting glass phone cover. For schools, for sleep. Trigger when specific apps are opened.
  - **Droid language:** An audio signalling command language for robots to communicate and signal without being distracting or requiring network connectivity (like in star wars, but real)
@@ -207,7 +223,7 @@ If I see one of my old ideas somewhere as a product, I'll cross it off here.
  - **FietsTracker:** A small gps-based tracking device that is welded/installed to your bike. Pay a small monthly subscription (3 euro/m) for tracking service, pay more for optional bike insurance. Notifies you on your phone if your bike is moving after the tracker has been armed. Get to keep the sticker and the blinking tracker even after subscription runs out, providing another deterrent for bike thieves. Receive the sticker for free = “FietsTracker.com BIKE TRACKER”, also optional alarm when moving. Also proximity locate with phone.
  - **MetaDesktop:** A VR headset focused on ultra high resolution of a single screen, that is not necessarily fully immersive with a high FoV, but instead, intentionally limited FoV with a static monitor set in a black (or white) background. Removes distractions, increases productivity, reduces need for excessive engineering. Replaces traditional monitors on the go or at work. Very affordable? --> see my 2025/26 project: Mindwrite
  - **Boil:** Using microwaves for sensation in VR? Same technology used in crowd control could activate nerves beneath the skin through pinpoint low energy microwaves? -sensation of heat or??
- - **Soro:** An led panel strip that goes in front of a piano keyboard, displaying the notes in visual form for a song. Think YouTube piano tutorials where the notes stream to the keys, except turned into a physical game and learning tool.
+ - **Soro++:** An led panel strip that goes in front of a piano keyboard, displaying the notes in visual form for a song. Think YouTube piano tutorials where the notes stream to the keys, except turned into a physical game and learning tool. Projector on keyboard? also shows then the strips going down the piano to the keys without needing stuff all over it.
  - **TradeTapper:** A meme-focused trading app with no buy/sell fees that lets you click two buttons, buy and sell on a single selected security. You can deposit up to $50 at a time, and the goal is to increase your money and “level up” your stock by rapidly buying and selling like a minigame. Earn rewards and see your rank on a global leaderboard. Company buys stock for you, takes liability for daytrading?
 
 
